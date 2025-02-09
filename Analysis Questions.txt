@@ -1,0 +1,20 @@
+SQL Questions:
+Beginner:
+1) Retrieve all data for wildfires that occurred in "Sonoma County."
+2) Find the total number of wildfires recorded in the dataset.
+3) List distinct wildfire causes.
+4) Retrieve the details of wildfires that resulted in more than 10 fatalities.
+
+Intermediate:
+5) Calculate the average financial loss per wildfire.
+6) Retrieve the top 5 most destructive wildfires in terms of area burned.
+7) List all wildfires where more than 500 homes were destroyed and more than 10 fatalities occurred.
+8) Find the total number of homes, businesses, and vehicles destroyed for each location.
+9) Find the wildfire that caused the highest financial loss.
+
+Advanced:
+10) Determine the month in which the highest number of wildfires occurred.
+11) Rank wildfires by financial loss within each location.
+12) Find the cumulative financial loss for each location over time.
+13) Identify the correlation between wildfire causes and the number of fatalities.
+14) Compare the total area burned across years.
